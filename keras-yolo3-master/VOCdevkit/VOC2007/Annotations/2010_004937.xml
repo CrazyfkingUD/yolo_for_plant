@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2010_004937.jpg</filename>
+	<folder>VOC2012</folder>
+	<object>
+		<name>pottedplant</name>
+		<bndbox>
+			<xmax>465</xmax>
+			<xmin>400</xmin>
+			<ymax>288</ymax>
+			<ymin>225</ymin>
+		</bndbox>
+		<difficult>1</difficult>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+	</object>
+</annotation>

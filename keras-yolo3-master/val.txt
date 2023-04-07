@@ -1,0 +1,7 @@
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_001862.jpg 3,125,100,308,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_005098.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_001327.jpg 234,163,283,219,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_001644.jpg 459,109,500,202,0 4,80,89,182,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_004537.jpg 236,209,381,305,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_005170.jpg 1,1,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_002537.jpg 50,15,142,250,0 54,54,148,190,0 264,86,325,208,0 310,49,368,209,0

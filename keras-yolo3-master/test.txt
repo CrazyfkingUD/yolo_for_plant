@@ -1,0 +1,54 @@
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2007_003189.jpg 177,328,268,477,0 90,269,139,359,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2007_004392.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2007_008106.jpg 288,232,306,259,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_001784.jpg 1,93,63,270,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_002009.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_002191.jpg 299,264,348,351,0 268,266,312,341,0 100,258,134,301,0 117,232,139,262,0 343,406,375,500,0 325,398,375,473,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_002379.jpg 80,78,282,462,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_003203.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_003726.jpg 351,1,500,218,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_004344.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_004428.jpg 211,227,354,309,0 66,218,175,278,0 393,203,464,246,0 225,171,262,213,0 18,176,99,250,0 80,135,226,256,0 320,155,396,233,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_005242.jpg 6,186,249,430,0 111,3,231,109,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_005345.jpg 30,301,185,473,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_005519.jpg 257,120,352,230,0 76,148,165,255,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_005847.jpg 1,5,216,375,0 163,1,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_006068.jpg 349,53,477,235,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_006275.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_006509.jpg 186,359,221,396,0 166,381,198,411,0 51,453,120,500,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_006881.jpg 36,171,118,357,0 391,202,500,354,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_007261.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_007281.jpg 356,50,475,138,0 248,69,291,96,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_008070.jpg 352,1,500,190,0 172,95,272,194,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_008096.jpg 292,277,345,329,0 93,41,118,67,0 256,42,278,66,0 346,44,366,67,0 472,46,492,70,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2008_008338.jpg 212,78,292,118,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_000251.jpg 382,72,448,121,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_001303.jpg 18,207,76,284,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_004191.jpg 133,6,356,500,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_004438.jpg 86,58,207,275,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2009_005086.jpg 324,122,350,178,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_000015.jpg 284,121,430,301,0 207,235,316,345,0 106,215,211,318,0 91,43,263,195,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_000027.jpg 298,153,375,245,0 162,137,242,184,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_002379.jpg 1,1,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_002632.jpg 75,171,108,237,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_002676.jpg 370,84,423,130,0 60,118,171,214,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_002830.jpg 21,81,272,428,0 1,271,93,426,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_003218.jpg 195,288,250,333,0 150,236,220,346,0 125,271,176,354,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_004062.jpg 1,4,98,238,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_004703.jpg 359,256,409,286,0 395,191,450,229,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2010_005860.jpg 4,150,120,267,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_000072.jpg 274,221,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_000468.jpg 25,4,426,369,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_000806.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001005.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001025.jpg
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001034.jpg 1,1,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001175.jpg 208,146,232,171,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001288.jpg 4,141,56,182,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001360.jpg 22,1,500,375,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001412.jpg 114,33,219,118,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001440.jpg 79,156,133,265,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_001766.jpg 153,167,187,210,0 301,53,333,175,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_002350.jpg 344,229,398,309,0 236,166,272,210,0 134,148,180,212,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_003076.jpg 71,161,126,224,0
+D:\opencv\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/2011_003162.jpg 330,1,500,340,0

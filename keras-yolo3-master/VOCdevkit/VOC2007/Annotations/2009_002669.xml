@@ -1,0 +1,30 @@
+<annotation>
+	<filename>2009_002669.jpg</filename>
+	<folder>VOC2012</folder>
+	<object>
+		<name>pottedplant</name>
+		<bndbox>
+			<xmax>61</xmax>
+			<xmin>28</xmin>
+			<ymax>137</ymax>
+			<ymin>84</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<name>pottedplant</name>
+		<bndbox>
+			<xmax>486</xmax>
+			<xmin>469</xmin>
+			<ymax>125</ymax>
+			<ymin>98</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+	</object>
+</annotation>

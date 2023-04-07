@@ -1,0 +1,41 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>2008_005794.jpg</filename>
+	<source>
+		<database>The VOC2008 Database</database>
+		<annotation>PASCAL VOC2008</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>70</ymin>
+			<xmax>497</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+		<difficult>0</difficult>
+	</object>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>1</occluded>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>52</ymin>
+			<xmax>330</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+		<difficult>1</difficult>
+	</object>
+</annotation>
